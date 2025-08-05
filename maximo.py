@@ -10,6 +10,3 @@ def maximo(lista):
 		if numero > max_valor:
 			max_valor = numero
 	return max_valor
-
-# A ver si puedo hacer pull request a mi fork
-# Alo la, no sé si esto se va a ver en el pull request
