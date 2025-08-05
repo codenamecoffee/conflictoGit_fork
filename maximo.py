@@ -2,6 +2,7 @@
 # devuelve el máximo valor en una lista dada
 def maximo(lista):
 
+
 	if not lista:
 		return None  
 
@@ -10,3 +11,4 @@ def maximo(lista):
 		if numero > max_valor:
 			max_valor = numero
 	return max_valor
+#pinche fork
